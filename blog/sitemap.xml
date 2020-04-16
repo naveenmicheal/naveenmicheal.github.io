@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://naveenmicheal.github.io//blog/posts/intro-to-jekyll</loc>
+<lastmod>2019-03-31T11:03:30+05:30</lastmod>
+</url>
+<url>
+<loc>https://naveenmicheal.github.io//blog/about.html</loc>
+</url>
+<url>
+<loc>https://naveenmicheal.github.io//blog/contact.html</loc>
+</url>
+<url>
+<loc>https://naveenmicheal.github.io//blog/posts/</loc>
+</url>
+<url>
+<loc>https://naveenmicheal.github.io//blog/</loc>
+</url>
+</urlset>

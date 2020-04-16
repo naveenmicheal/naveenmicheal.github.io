@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://naveenmicheal.github.io//blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://naveenmicheal.github.io//blog/" rel="alternate" type="text/html" /><updated>2020-04-16T15:38:24+05:30</updated><id>https://naveenmicheal.github.io//blog/feed.xml</id><title type="html">Naveen Micheal</title><entry><title type="html">Get Started with jekyll</title><link href="https://naveenmicheal.github.io//blog/posts/intro-to-jekyll" rel="alternate" type="text/html" title="Get Started with jekyll" /><published>2019-03-31T11:03:30+05:30</published><updated>2019-03-31T11:03:30+05:30</updated><id>https://naveenmicheal.github.io//blog/posts/get-started-jekll</id><content type="html" xml:base="https://naveenmicheal.github.io//blog/posts/intro-to-jekyll">&lt;p&gt;Transform your plain text into static websites and blogs&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Greetings!!!&lt;/h3&gt;
+&lt;p&gt;Welcome to My Blog. This is My First Post in Here. Here I am going to post and write about projects and walkthrough. By the way this blog created by Jekyll (Static site Generator)&lt;/p&gt;
+
+&lt;h3&gt;What is this?&lt;/h3&gt;
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license&lt;/p&gt;
+
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;p&gt;Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server Jekyll is the engine behind GitHub Pages a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.&lt;/p&gt;
+
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Check that in Official jekyll Documentation, for install jekyll for your working environment&lt;/p&gt;
+&lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot; target=&quot;_blank&quot;&gt;Jekyll Installination - Docs&lt;/a&gt;
+
+&lt;br&gt;&lt;br&gt;
+&lt;h2&gt;Create an app&lt;/h2&gt;
+
+&lt;p&gt;Create a New Jekyll site, By running that command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jekyll new mynewsite&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Change your Directory&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd mynewsite&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then run that following command, to launch your website, on a local developement server&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It Normally launched in 127.0.0.1   (localhost), port 4000&lt;/p&gt;
+
+&lt;p&gt;If you want to change the PORT address, run that following command&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;bundle exec jekyll serve --port mynewportnumber&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Transform your plain text into static websites and blogs</summary></entry></feed>
